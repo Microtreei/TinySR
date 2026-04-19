@@ -1,0 +1,12 @@
+diffusers==0.29.1
+torch==2.2.2 
+torchvision==0.17.2
+pyiqa
+transformers==4.49.0
+# xformers
+peft==0.15.0
+pillow==10.3.0
+accelerate
+numpy==1.24.4
+wandb
+loralib==0.1.2
