@@ -195,9 +195,6 @@ if __name__ == "__main__":
         
     # Load the pretrained models
     transformer = TinySD3Transformer2DModel.from_pretrained(args.pretrained_model_name_or_path,subfolder="transformer", 
-                                            torch_dtype=weight_dtype, low_cpu_mem_usage=False, ignore_mismatched_sizes=True)
-    vae = AutoencoderTiny.from_pretrained(args.vae_path, torch_dtype=weight_dtype)
-    transformer = TinySD3Transformer2DModel.from_pretrained(args.pretrained_model_name_or_path,subfolder="transformer", 
                                                         torch_dtype=weight_dtype, low_cpu_mem_usage=False, ignore_mismatched_sizes=True)
     vae = AutoencoderTiny.from_pretrained(args.vae_path, torch_dtype=weight_dtype)
     
