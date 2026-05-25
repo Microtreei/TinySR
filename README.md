@@ -5,7 +5,7 @@
  [PyTorch]</h1>
 
 <div>
-    <a href='https://github.com/Microtreei' target='_blank'>Linwei Dong<sup>1,2*</sup></a>&emsp;
+    <a href='https://github.com/Microtreei' target='_blank'>Linwei Dong<sup>1</sup></a>&emsp;
     <a href='https://fqnchina.github.io/' target='_blank'>Qingnan Fan<sup>2</sup></a>&emsp;
     <a href='https://openreview.net/profile?id=~Yuhang_Yu2' target='_blank'>Yuhang Yu<sup>2</sup></a>&emsp;
     <a href='https://qzhang-cv.github.io/' target='_blank'>Qi Zhang<sup>2</sup></a>&emsp;
